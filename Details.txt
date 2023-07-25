@@ -1,0 +1,60 @@
+<Please fill in the details in the sections provided below before submitting this document back to HR>
+Candidate Details
+Name : KODA KIRAN
+Email ID : kk393547@gmail.com
+Mobile : 6301805220
+
+
+6301805220
+
+
+Problem Statement
+Create a Javascript application :
+Below are two list of User
+List1=[‘Arjun’, ‘Adwait’, ‘Swapnil’,’Amit’, ‘Vishal’, ‘Adnan’]
+List2=[ ‘Adwait’,’Laxman’,’Amit’, ‘Adnan’,’Nitin’,’Gaurav’]
+Find following output (Use collection)
+a. Get a unique set of users from List1 which are not in List2
+b. Get a unique set of users from List2 which are not in List1
+c. Get a set of users who are present in in List1 and List2 both (intersection of list1 & list2)
+
+INSTRUCTIONS 
+
+You are allowed to browse internet, but not copy code from other sites. Your submission should strictly be via GitHub. Please note that the purpose of test is not only completion but to ascertain how well you follow coding standards.
+
+
+
+
+Timeline
+24 hrs.
+Please ensure that your test is delivered within this timeline. Any deviation has to be brought to our attention before you cross the allocated timeline.
+
+
+
+
+
+
+
+Understanding of the problem
+Given two Arrays and get three outputs i.e. first get the unique names in list1 not in list2, second get the unique names in list2 not in list1, and third get the same names present in both list1 and list2.
+
+
+
+Approach
+first of all create three empty arrays because we need three outputs. After by using for loop approach and with the help of if condition we can get name we required.
+
+
+Positive and Negative Test Cases
+Done with successful test case
+So, in the give question the solution is:
+Array(3)[ Arjun,Swapnil,Vishal ]
+Array(3)[ Laxman,Nitin,Gaurav ]
+Array(3)[ Adwait,Amit,Adnan ]
+
+
+
+FAQs
+
+
+
+
